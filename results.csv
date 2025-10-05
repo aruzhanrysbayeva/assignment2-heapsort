@@ -1,0 +1,5 @@
+Algorithm,InputSize,Time(ms),Comparisons,Swaps,ArrayAccesses
+HeapSort,100,0,831,1042,584,2210
+HeapSort,1000,0,449,16851,9055,34961
+HeapSort,10000,4,629,235310,124172,483654
+HeapSort,100000,22,530,3019564,1575067,6169698
