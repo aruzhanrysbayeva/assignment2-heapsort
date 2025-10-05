@@ -14,5 +14,8 @@ Worst Case: O(n log n)
 Heap Sort is in-place and not stable.
 
 The second part of assignment is analysis. I analyzed my partner's Shell Sort algorithm. 
+I analyzed complexity, offered improvements and optimization.
+Then with my partner we did the cross-review summary, where just shortly compare two sorting algorithms.
+
 
 
